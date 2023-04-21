@@ -5,7 +5,7 @@
 🎮 Fun fact, I love playing Mario Kart!
 👥 Let's collaborate!
 
-![Alt Text](https://media.giphy.com/media/JGxxK2YX1ro3e/giphy.gif)
+![Alt Text](https://media.giphy.com/media/TTy5YmVmhmWhq/giphy.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edrei-gonzalez-said/) 
