@@ -5,6 +5,8 @@
 🎮 Fun fact, I love playing Mario Kart!
 👥 Let's collaborate!
 
+![Alt Text](https://tenor.com/GbZU.gif) 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edrei-gonzalez-said/) 
 
