@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏼 Hi, I'm Edrei:
 I'm currently working as BI & Analytics Lead <br>I'm learning more about data modeling and machine learning<br>Ask me about Music <br>Fact, I love Mario Kart <br>I'm looking to collaborate with all tech community <br>
 
 
