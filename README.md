@@ -1,6 +1,9 @@
-# 👋🏼 Hi, I'm Edrei:
-I'm currently working as BI & Analytics Lead <br>I'm learning more about data modeling and machine learning<br>Ask me about Music <br>Fact, I love Mario Kart <br>I'm looking to collaborate with all tech community <br>
-
+#  Hi, I'm Edrei:
+📊 I'm currently working as a BI & Data Analysis Lead.
+📚 I'm learning more about data modeling and machine learning.
+🎶 Ask me about music!
+🎮 Fun fact, I love playing Mario Kart!
+👥 Let's collaborate!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edrei-gonzalez-said/) 
