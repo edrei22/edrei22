@@ -5,7 +5,7 @@
 🎮 Fun fact, I love playing Mario Kart!
 👥 Let's collaborate!
 
-![Logo de GitHub](https://images5.alphacoders.com/416/416528.jpg)
+![Logo de GitHub](https://images5.alphacoders.com/497/497046.png)
 
 
 ## 🌐 Socials:
