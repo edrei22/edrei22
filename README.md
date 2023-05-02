@@ -1,5 +1,5 @@
 #  Hi, I'm Edrei:
-📊 I'm currently working as a BI & Data Analysis Lead.
+📊 I'm currently working as a BI & Data Analysis Developer.
 📚 I'm learning more about data modeling and machine learning.
 🎶 Ask me about music!
 🎮 Fun fact, I love playing Mario Kart!
