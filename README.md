@@ -5,7 +5,7 @@
 🎮 My favorite game is Mario Kart.
 👥 Let's collaborate!
 
-![Logo de GitHub](https://images5.alphacoders.com/497/497046.png)
+![Logo de GitHub](https://media.giphy.com/media/3otPoptHYvXtDAqwxO/giphy.gif)
 
 
 ## 🌐 Socials:
