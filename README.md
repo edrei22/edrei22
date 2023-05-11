@@ -1,7 +1,7 @@
 #  Hi, I'm Edrei:
-📊 I'm currently working as a BI & Data Analysis Developer.
-📚 I'm learning more about data modeling, machine learning and cloud computing.
-🎶 Ask me about music!
+📊 I'm currently working as a BI & Data Analyst Developer.
+📚 I'm learning about data modeling, machine learning and cloud computing.
+🎶 Ask me about music.
 🎮 My favorite game is Mario Kart.
 👥 Let's collaborate!
 
