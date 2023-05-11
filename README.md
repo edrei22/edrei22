@@ -1,8 +1,8 @@
 #  Hi, I'm Edrei:
 📊 I'm currently working as a BI & Data Analysis Developer.
-📚 I'm learning more about data modeling and machine learning.
+📚 I'm learning more about data modeling, machine learning and cloud computing.
 🎶 Ask me about music!
-🎮 Fun fact, I love playing Mario Kart!
+🎮 My favorite game is Mario Kart.
 👥 Let's collaborate!
 
 ![Logo de GitHub](https://images5.alphacoders.com/497/497046.png)
